@@ -1,0 +1,21 @@
+{
+    "created_time": "03/25/23 -- 02:59:55",
+    "bot": {
+        "main_front": "DejaVuSansCondensed.ttf",
+        "dict_paragraph": [
+            "ФИО",
+            "Город",
+            "СР",
+            "Адрес",
+            "Тел",
+            "ТК"
+        ],
+        "title": "Заголовок",
+        "path_logo": "logo.png",
+        "size_logo": 15,
+        "token": "Здесь ваш Telegram Токен"
+    },
+    "logs": {
+        "main_path_logs": "./logs/log.txt"
+    }
+}
